@@ -63,6 +63,9 @@ sysinfo.txt
 *.meta
 *.mat
 *.unity
+*.prefab
+*.json
+
 
 # Crashlytics generated file
 crashlytics-build.properties
@@ -121,3 +124,4 @@ crashlytics-build.properties
 /Module1/Poke'mon Online Card Shop/Assets/Auto Letterbox/Demos/Game Demo/Physics Materials.meta
 /Module1/Poke'mon Online Card Shop/Assets/Auto Letterbox/Demos/Game Demo/Scripts.meta
 /Module1/Poke'mon Online Card Shop/Assets/Auto Letterbox
+/Module1/Poke'mon Online Card Shop/Library
