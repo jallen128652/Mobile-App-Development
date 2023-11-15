@@ -69,7 +69,9 @@ sysinfo.txt
 *.pom
 *.gradle
 *.txt
-
+*.config
+*.txt-7.1.2
+*.jar
 
 # Crashlytics generated file
 crashlytics-build.properties
