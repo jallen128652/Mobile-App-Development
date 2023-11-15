@@ -67,6 +67,8 @@ sysinfo.txt
 *.json
 *.xml
 *.pom
+*.gradle
+*.txt
 
 
 # Crashlytics generated file
