@@ -72,6 +72,7 @@ sysinfo.txt
 *.config
 *.txt-7.1.2
 *.jar
+*.properties
 
 # Crashlytics generated file
 crashlytics-build.properties
