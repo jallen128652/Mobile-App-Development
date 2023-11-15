@@ -65,6 +65,8 @@ sysinfo.txt
 *.unity
 *.prefab
 *.json
+*.xml
+*.pom
 
 
 # Crashlytics generated file
@@ -125,3 +127,37 @@ crashlytics-build.properties
 /Module1/Poke'mon Online Card Shop/Assets/Auto Letterbox/Demos/Game Demo/Scripts.meta
 /Module1/Poke'mon Online Card Shop/Assets/Auto Letterbox
 /Module1/Poke'mon Online Card Shop/Library
+/Module1/PokemonOnlineCardShop/.vsconfig
+/Module1/PokemonOnlineCardShop/Assets/Auto Letterbox
+/Module1/PokemonOnlineCardShop/Assets/ExternalDependencyManager/Editor/CHANGELOG.md
+/Module1/PokemonOnlineCardShop/Assets/ExternalDependencyManager/Editor/external-dependency-manager_version-1.2.177_manifest.txt
+/Module1/PokemonOnlineCardShop/Assets/ExternalDependencyManager/Editor/LICENSE
+/Module1/PokemonOnlineCardShop/Assets/ExternalDependencyManager/Editor/README.md
+/Module1/PokemonOnlineCardShop/Assets/Firebase/Editor/FirebaseAuth_version-11.6.0_manifest.txt
+/Module1/PokemonOnlineCardShop/Assets/Firebase/Editor/FirebaseDatabase_version-11.6.0_manifest.txt
+/Module1/PokemonOnlineCardShop/Assets/Firebase/Editor/FirebaseStorage_version-11.6.0_manifest.txt
+/Module1/PokemonOnlineCardShop/Assets/Firebase/Editor/generate_xml_from_google_services_json.exe
+/Module1/PokemonOnlineCardShop/Assets/Firebase/Editor/generate_xml_from_google_services_json.py
+/Module1/PokemonOnlineCardShop/Assets/Firebase/Editor/network_request.py
+/Module1/PokemonOnlineCardShop/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/11.6.0/firebase-app-unity-11.6.0.pom
+/Module1/PokemonOnlineCardShop/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/11.6.0/firebase-auth-unity-11.6.0.pom
+/Module1/PokemonOnlineCardShop/Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity/11.6.0/firebase-database-unity-11.6.0.pom
+/Module1/PokemonOnlineCardShop/Assets/Firebase/m2repository/com/google/firebase/firebase-storage-unity/11.6.0/firebase-storage-unity-11.6.0.pom
+/Module1/PokemonOnlineCardShop/Assets/Plugins/Android/FirebaseApp.androidlib/AndroidManifest.xml
+/Module1/PokemonOnlineCardShop/Assets/Plugins/Android/FirebaseApp.androidlib/project.properties
+/Module1/PokemonOnlineCardShop/Assets/Plugins/Android/mainTemplate.gradle.DISABLED
+/Module1/PokemonOnlineCardShop/Assets/Plugins/Android/settingsTemplate.gradle.DISABLED
+/Module1/PokemonOnlineCardShop/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build.gradle
+/Module1/PokemonOnlineCardShop/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/generated/source/buildConfig/release/com/jallen128652/PokemonOnlineCardShop/BuildConfig.java
+/Module1/PokemonOnlineCardShop/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/app_metadata/release/app-metadata.properties
+/Module1/PokemonOnlineCardShop/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/default_proguard_files/global/proguard-android-optimize.txt-7.1.2
+/Module1/PokemonOnlineCardShop/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/default_proguard_files/global/proguard-defaults.txt-7.1.2
+/Module1/PokemonOnlineCardShop/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/incremental/mergeReleaseAssets/merger.xml
+/Module1/PokemonOnlineCardShop/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml
+/Module1/PokemonOnlineCardShop/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml
+/Module1/PokemonOnlineCardShop/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-af/values-af.xml
+/Module1/PokemonOnlineCardShop/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-am/values-am.xml
+/Module1/PokemonOnlineCardShop/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ar/values-ar.xml
+/Module1/PokemonOnlineCardShop/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-as/values-as.xml
+/Module1/PokemonOnlineCardShop/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-az/values-az.xml
+/Module1/PokemonOnlineCardShop/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml
