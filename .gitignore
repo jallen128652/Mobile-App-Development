@@ -76,6 +76,7 @@ sysinfo.txt
 *.cpp
 *.java
 *.c
+*.dll
 
 # Crashlytics generated file
 crashlytics-build.properties
